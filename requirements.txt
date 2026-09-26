@@ -1,2 +1,4 @@
 requests
 flask
+ffmpeg
+yt-dlp>=2026.08.06
