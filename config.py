@@ -2,7 +2,7 @@
 SECRET_KEY = 'MobileVideoShare'
 
 # Invidious Instance to use
-INVIDIOUS_INSTANCE = 'https://vid.puffyan.us'
+INVIDIOUS_INSTANCE = 'http://invidious.f5.si'
 
 # Cache Size in Bytes
 CACHE_SIZE = 10000000000
